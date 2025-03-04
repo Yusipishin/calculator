@@ -1,1 +1,1 @@
-TEST MESSAGE
+It's calculator application.
